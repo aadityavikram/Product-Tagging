@@ -1,6 +1,6 @@
 # Product Tagging
 
-<h2> This is the project for tagging products based on their category. Labels are predicted for the product image provided. </h2>
+<h2> This is the project for tagging products based on their category for e commerce websites. Labels are predicted for the product image provided. </h2>
 
 <h2> Setup :- </h2>
 <p> Python -- > Python 3.6.5 </p>
