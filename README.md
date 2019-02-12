@@ -57,3 +57,4 @@
 <p>https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a</p>
 <p>https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/</p>
 <p>https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/</p>
+<p>https://pillow.readthedocs.io/en/3.1.x/reference/Image.html</p>
