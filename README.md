@@ -50,11 +50,12 @@
 <p>Predictions are printed on screen and saved in predicted_labels.txt(created automatically) in the folder project folder as well.</p>
 
 <h2> Links referenced :- </h2>
-<p>https://keras.io/applications/#vgg16</p>
-<p>https://stackoverflow.com/questions/988228/convert-a-string-representation-of-a-dictionary-to-a-dictionary</p>
-<p>https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html</p>
-<p>https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html</p>
-<p>https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a</p>
-<p>https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/</p>
-<p>https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/</p>
-<p>https://pillow.readthedocs.io/en/3.1.x/reference/Image.html</p>
+<p> https://keras.io/applications/#vgg16 </p>
+<p> https://stackoverflow.com/questions/988228/convert-a-string-representation-of-a-dictionary-to-a-dictionary </p>
+<p> https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html </p>
+<p> https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html </p>
+<p> https://towardsdatascience.com/logistic-regression-using-python-sklearn-numpy-mnist-handwriting-recognition-matplotlib-a6b31e2b166a </p>
+<p> https://www.learnopencv.com/keras-tutorial-transfer-learning-using-pre-trained-models/ </p>
+<p> https://www.analyticsvidhya.com/blog/2018/07/top-10-pretrained-models-get-started-deep-learning-part-1-computer-vision/ </p>
+<p> https://pillow.readthedocs.io/en/3.1.x/reference/Image.html </p>
+<p> https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0 </p>
