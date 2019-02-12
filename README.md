@@ -47,7 +47,7 @@
 <p>Image is loaded and resized to 224x224 as input to VGG16 is of this size.</p>
 <p>Features are extracted.</p>
 <p>Prediction is made on test images put in dataset/test folder.</p>
-<p>Predictions are printed on screen and saved in predicted_labels.txt(created automatically) in the folder project folder as well.</p>
+<p>Predictions are printed on screen and saved in predicted_labels.txt (created automatically) in the project folder as well.</p>
 
 <h2> Links referenced :- </h2>
 <p> https://keras.io/applications/#vgg16 </p>
