@@ -2,6 +2,15 @@
 
 <h2> This is the project for tagging products based on their category for e commerce websites. Labels are predicted for the product image provided. </h2>
 
+<h2> Using the Product Tagging.ipynb notebook :- </h2>
+<p> Go to https://colab.research.google.com/ and create a new account. </p>
+<p> Open this notebook in Google Colab. </p>
+<p> From Edit -> Notebook Settings select Hardware Accelerator. Select GPU or TPU for fast processing. </p>
+<p> Create a folder with the name 'ProductTagging' in the root of Google Drive. </p>
+<p> Create a folder with name 'dataset' and another with name 'output' in ProductTagging folder. </p>
+<p> Now copy the contents from the link -> https://drive.google.com/open?id=1cDrs72XW7j6eBtV-oLgsn7G4r9ZrUtV1 into the 'dataset' folder. </p>
+<p> Now run the notebook. </p>
+
 <h2> Setup :- </h2>
 <p> Python -- > Python 3.6.5 </p>
 <p> OS --> Windows 10 (OS build-->17763.253) (Version-->1809) </p>
