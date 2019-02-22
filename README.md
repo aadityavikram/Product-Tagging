@@ -11,6 +11,10 @@
 <p> Now copy the contents from the link -> https://drive.google.com/open?id=1cDrs72XW7j6eBtV-oLgsn7G4r9ZrUtV1 into the 'dataset' folder. </p>
 <p> Now run the notebook. </p>
 
+<h2> Final accuracy :- </h2>
+<h2> Before Augmentation -> 82.46% </h2>
+<h2> After Augmentation -> 94.26% </h2>
+
 <h2> Setup :- </h2>
 <p> Python -- > Python 3.6.5 </p>
 <p> OS --> Windows 10 (OS build-->17763.253) (Version-->1809) </p>
