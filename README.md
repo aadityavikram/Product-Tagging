@@ -12,8 +12,8 @@
 <p> Now run the notebook. </p>
 
 <h2> Final accuracy :- </h2>
-<h2> Before Augmentation -> 82.46% </h2>
-<h2> After Augmentation -> 94.26% </h2>
+<b> Before Augmentation -> 82.46% </b>
+<b> After Augmentation -> 94.26% </b>
 
 <h2> Setup :- </h2>
 <p> Python -- > Python 3.6.5 </p>
