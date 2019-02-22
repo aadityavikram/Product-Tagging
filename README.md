@@ -29,13 +29,42 @@
 <p>Downloads those images in their respective categories in dataset/train.</p>
 <p>Discards other images.</p>
 
-<h2> Step 2 -> Extracting features from images in training dataset :- </h2>
+<h2> Step 2 -> Data Augmentation :- </h2>
+<h3>The image dataset can be augmented by running augmentation.py</h3>
+<p>python augmentation.py</p>
+<p>Increases the size of dataset if sufficient amount of data is not present for training.</p>
+<p>Various operations are performed on images for augmentation.</p>
+<p>Some of the operations are :-</p>
+<table>
+  <tr>
+    <th>S.No.</th>
+    <th>Operation to be performed</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Rotating the images.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Adding Noise to the images.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Flipping the images.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Rescaling the images.</td>
+  </tr>
+</table>
+
+<h2> Step 3 -> Extracting features from images in training dataset :- </h2>
 <h3>The features can be extracted from the image dataset by running extract_features.py</h3>
 <p>python extract_features.py</p>
 <p>Creates output folder in project folder.</p>
 <p>Labels, Features, Models and Weights of images in our dataset are saved in output folder.</p>
 
-<h2>Step 3 -> Training on the image dataset :-</h2>
+<h2>Step 4 -> Training on the image dataset :-</h2>
 <h3>The model can be trained by running train.py</h3>
 <p>python train.py</p>
 <p>Pre-trained VGG16 model is used.</p>
@@ -48,7 +77,7 @@
 
 <img src="extract_features.png">
 
-<h2>Step 4 -> Testing on new data :-</h2>
+<h2>Step 5 -> Testing on new data :-</h2>
 <h3>The model can be tested by running test.py</h3>
 <p>python test.py</p>
 <p>Put images to be tested in dataset/test folder.</p>
