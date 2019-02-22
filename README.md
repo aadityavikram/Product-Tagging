@@ -33,28 +33,34 @@
 <h3>The image dataset can be augmented by running augmentation.py</h3>
 <p>python augmentation.py</p>
 <p>Increases the size of dataset if sufficient amount of data is not present for training.</p>
+<p>scikit-image library in python can be used to augment the dataset.</p>
 <p>Various operations are performed on images for augmentation.</p>
 <p>Some of the operations are :-</p>
 <table>
   <tr>
     <th>S.No.</th>
     <th>Operation to be performed</th>
+    <th>Command</th>
   </tr>
   <tr>
     <td>1</td>
     <td>Rotating the images.</td>
+    <td>skimage.transform.rotate(image_array, random_degree)</td>
   </tr>
   <tr>
     <td>2</td>
     <td>Adding Noise to the images.</td>
+    <td>skimage.util.random_noise(image_array)</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Flipping the images.</td>
+    <td>image_array[:, ::-1]</td>
   </tr>
   <tr>
     <td>4</td>
     <td>Rescaling the images.</td>
+    <td>skimage.transform.rescale(image_array, 1.0/4.0, anti_aliasing=False)</td>
   </tr>
 </table>
 
