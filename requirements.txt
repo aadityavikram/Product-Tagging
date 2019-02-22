@@ -5,6 +5,8 @@ os
 Pillow
 keras
 scikit-learn
+scikit-image
+scipy
 numpy
 glob
 h5py
